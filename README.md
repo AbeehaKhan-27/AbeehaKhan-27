@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 <!--
 **AbeehaKhan-27/AbeehaKhan-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Abeeha Khan, a second-year student at Princeton pursuing computer science under the engineering track at Princeton University. I have a wealth of experience in software development and design, and below are some of the courses I've taken:
+
+- 🧮 Data Structures & Algorithms
+- 🤖 Programming Systems
+- 🌱 Introductory Web Development
+- 🔗 Blockchain Programming
+- 📊 Discrete Mathematics
