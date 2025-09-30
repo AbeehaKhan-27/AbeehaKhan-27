@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Abeeha Khan, a second-year student at Princeton pursuing computer science under the engineering track at Princeton University. I have a wealth of experience in software development and design, and below are some of the courses I've taken:
+I'm Abeeha Khan, a third-year student at Princeton pursuing computer science under the engineering track at Princeton University. I have a wealth of experience in software development and design, and below are some of the courses I've taken:
 
 - 🧮 Data Structures & Algorithms
 - 🤖 Programming Systems
