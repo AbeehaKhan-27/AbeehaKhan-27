@@ -22,3 +22,5 @@ I'm Abeeha Khan, a second-year student at Princeton pursuing computer science un
 - 🌱 Introductory Web Development
 - 🔗 Blockchain Programming
 - 📊 Discrete Mathematics
+- 👩‍💻 Advanced Programming Techniques
+- 📱 Machine Learning
