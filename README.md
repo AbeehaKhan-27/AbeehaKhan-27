@@ -24,3 +24,4 @@ I'm Abeeha Khan, a third-year student at Princeton pursuing computer science und
 - 📊 Discrete Mathematics
 - 👩‍💻 Advanced Programming Techniques
 - 📱 Machine Learning
+- 🎮 Game Development
